@@ -1,0 +1,135 @@
+@media (max-width : 1200px) {
+
+}
+@media (max-width : 991px) {
+    .P-section-padding {
+        width: 50%;
+    }
+    .P-padding {
+        margin: 0 auto;
+    }
+    .P-section-3blocks{
+        flex-wrap: wrap;
+    }
+    .background2-box {
+        display: block;
+    }
+    .P-background-img {
+        margin-top: 30px;
+        padding: 15px;
+    }
+    .P-section-pictures {
+        width: 100%;
+    }
+    .P-footer-contain {
+        flex-wrap: wrap;
+    }
+    .P-footer-box {
+        width: 42%;
+        margin: 0 auto;
+        padding: 15px;
+    }
+}
+@media (max-width : 767px) {
+    body {
+        font-size: 12px;
+    }
+    .P-header-box {
+        width: 50%;
+        margin: 8px 0;
+    }
+    .P-header-nextinfo {
+        flex-wrap: wrap;
+    }
+    .p-section-aenean h2{
+        font-size: 35px;
+    }
+    .P-burger{
+        display: block;
+    }
+    .p-header-icons {
+        display: none;
+    }
+    .small-info {
+        display: none;
+    }
+    
+}
+@media (max-width : 576px) {
+    .p-header-telmail {
+        display: block;
+    }
+    .P-header-info{
+        justify-content: center;
+    }
+    .P-header-nextinfo {
+        text-align: center;
+    }
+    .p-section-aenean {
+        margin: 0 auto;
+    }
+    .p-section-aenean h2{
+        font-size: 25px;
+    }
+    .P-header-box {
+        width: 100%;
+    }
+    .P-header-nextinfo {
+        flex-wrap: wrap;
+    }
+    .P-cont {
+        display: block;
+        text-align: center;
+        padding: 15px;
+    }
+    .P-background-img {
+        width: 300px;
+        height: 240px ;
+        background-position: center;
+        margin: 0 auto;
+    }
+    .P-footer-box {
+        width: 84%;
+        text-align: center
+        }  
+        .P-footer-menu ul {
+            display: block;
+        }
+        .P-footer-menu li {
+            margin-top: 10px;
+        }
+      .footer-end {
+          font-size: 8px;
+      }
+      .P-background-img {
+          width: 100%;
+      }
+    .P-section-3blocks {
+        display: block;
+    }
+    .P-section-padding {
+        margin: 0 auto;
+    }
+    .P-background2-cont {
+        text-align: center;
+    }
+    .P-section-icon {
+        display: block
+    }
+    .P-section-padding {
+        width: 100%;
+    }
+    .P-section-Doe {
+        display: block;
+        max-width: 100%;
+    }
+    .P-piano-info {
+        width: 100%;
+    }
+    .P-section-buttons {
+        display: block;
+    }
+    .P-section-button {
+        margin-bottom: 15px;
+    }
+}
